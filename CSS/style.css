@@ -1,0 +1,63 @@
+body
+{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1
+{
+  color:black;
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+p
+{
+  color: #0cdc17;
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+img
+{
+    border: solid red;
+    border-radius: 20px;        /* apple cut border */
+    border-width: 5px;         
+    padding: 3px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 5px;
+
+}
+
+img:hover
+{
+  background-color: aqua;
+}
+
+.h1color
+{
+  color: #e84a5f;
+}
+
+
+.color
+{
+  background-color: #0cdc17;
+}
+
+.change
+{
+  background-color: #0cdc17;
+}
+
+#para
+{
+  color: rgb(0, 0, 0);
+}
+
+.p2
+{
+  background-color: #0cdc17;
+}
